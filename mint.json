@@ -1,20 +1,24 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Annalect Portugal Documentation",
   "logo": {
     "dark": "/logo/dark.png",
     "light": "/logo/light.png"
   },
   "favicon": "/favicon.png",
   "colors": {
-    "primary": "#0069ED",
-    "light": "#4D9CFF",
-    "dark": "#0050B4"
+    "primary": "#6D8DC8",
+    "light": "#2EC3C6",
+    "dark": "#9374CA"
   },
   "topbarLinks": [
     {
       "name": "Documentation",
       "url": "https://mintlify.com/docs"
+    },
+    {
+      "name": "MAP",
+      "url": "https://map.annalect.pt"
     }
   ],
   "topbarCtaButton": {
